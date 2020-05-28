@@ -1,0 +1,9 @@
+{"namespace": "com.purbon.kafka.model",
+ "type": "record",
+ "name": "Event",
+ "fields": [
+     {"name": "song_id",   "type": "long"},
+     {"name": "duration", "type": "long"},
+     {"name": "after", "type": "string"}
+ ]
+}
