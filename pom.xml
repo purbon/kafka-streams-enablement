@@ -21,7 +21,7 @@
     <avro.version>1.8.2</avro.version>
     <jackson.version>2.9.7</jackson.version>
     <junit.version>4.13</junit.version>
-    <jetty.version>9.4.29.v20200521</jetty.version>
+    <jetty.version>11.0.1</jetty.version>
   </properties>
 
   <build>
